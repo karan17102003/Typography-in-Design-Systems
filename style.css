@@ -1,0 +1,38 @@
+h1{
+    font-size: 24px;
+    width: 450;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.p1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 451px;
+    margin-top: 16px;
+    
+    font-size: 17px;
+
+
+}
+.vidio{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 450px;
+    margin-top: 16px;
+}
+hr{
+    background-color: black;
+    
+    height: 4px;
+    color: black;
+    
+}
